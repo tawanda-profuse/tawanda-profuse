@@ -1,6 +1,6 @@
 # - 👋 Hi, I’m Tawanda @tawanda-profuse
-# - 👀 I’m interested in Games 🎮, Movies 📽, AI 🤖, and Space 🛰⭐
-# - 🌱 I’m currently learning Node.js, and SQL
+# - 👀 I’m interested in Web 3.0 🕸 and Games 🎮
+# - 🌱 I’m currently learning HTML, CSS, JavaScript, and Node.js
 # - 💞️ I’m looking to collaborate with good team members
 # - 🤙 Reach me via my [website](https://andrew-tech.netlify.app)
 
