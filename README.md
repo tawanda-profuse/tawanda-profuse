@@ -1,6 +1,6 @@
 # - 👋 Hi, I’m Tawanda or Andrew.
 - 👀 I’m interested in web development 🕸 and video games 🎮.
-- 🌱 I’m currently learning Next.js, Tailwind CSS, and, Typescript.
+- 🌱 I’m currently learning Next.js and, Typescript.
 - 💞️ I’m looking to collaborate with good team members.
 - 🤙 Reach me via my [website](https://tawanda-dev.netlify.app).
 
