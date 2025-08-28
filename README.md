@@ -1,6 +1,6 @@
 # - 👋 Hi, I’m Tawanda.
 - 👀 I’m interested in web development, mobile development, 🕸 and video games 🎮, playing them that is.
-- 🌱 I’m currently learning GraphQL, Docker/Containerization, and TypeScript.
+- 🌱 I’m currently learning GraphQL, Docker/Containerization, and Three.js.
 - 💞️ I’m looking to collaborate with good team members.
 - 🤙 Reach me via my [website](https://tawandam.co.zw/) and make sure to checkout my [blog](https://tawandam.co.zw/blog).
 
